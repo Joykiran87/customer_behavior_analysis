@@ -110,14 +110,8 @@ The dataset was initially processed using Python and later loaded into PostgreSQ
 ## Dashboard Preview
 
 ### Customer Behavior Dashboard
+![image alt](https://github.com/Joykiran87/customer_behavior_analysis/blob/6b678728f2275f3b1c9b5c765f8129842c638e80/Customer_Behavior_dashboard.png)
 
-(Add Dashboard Screenshot 1 Here)
-
-### Revenue & Customer Insights Dashboard
-
-(Add Dashboard Screenshot 2 Here)
-
----
 
 ## Key Business Insights
 
